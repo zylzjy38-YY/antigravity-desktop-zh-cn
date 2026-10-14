@@ -2,6 +2,8 @@
 
 从日常使用的运行时汉化中提取的独立 Windows 汉化包。下载、解压，双击 **一键安装.bat**，以后使用桌面上的 **Antigravity 中文** 入口。
 
+**[下载 Windows 一键汉化包](https://github.com/zylzjy38-YY/antigravity-desktop-zh-cn/releases/latest/download/antigravity-desktop-zh-cn-v1.0.0.zip)** · [查看版本说明与 SHA256](https://github.com/zylzjy38-YY/antigravity-desktop-zh-cn/releases/latest)
+
 **当前适配 Antigravity Desktop 2.23.0，已在 Windows 11 x64 测试。** 面向 Windows 10/11，Windows 10 尚未实机验收。这是独立桌面客户端，不是基于 VS Code 的 Antigravity IDE；安装工具会检查版本，其他版本会停止安装。没有验证 macOS、Linux 和其他版本。
 
 ## 使用
