@@ -1,0 +1,11 @@
+install.json
+status.json
+*.lnk
+*.zip
+node_modules/
+test-output/
+__pycache__/
+build/
+dist/
+*.spec
+*.exe
